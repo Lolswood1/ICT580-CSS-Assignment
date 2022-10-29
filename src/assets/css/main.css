@@ -10,7 +10,10 @@ body {
 img {
     max-width: 100%; /* DO NOT delete or change this line */
 }
-
+#stagbeetle {
+    background-color: #ffd5ae;
+    color: #000;
+}
 /* ----- SUGGESTED COLORS -----
     - ARTICLES
     B26219 cinnamon
